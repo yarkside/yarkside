@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yarkside
 - 👀 I’m interested in Software Development, Machine Learning, AI and Game Development
-- 🌱 I’m currently learning Python and Machinge Learning
+- 🌱 I’m currently learning Python, Machinge Learning and Game Development
 - 💞️ I’m looking to collaborate on Indie Game Development
 - 📫 How to reach me  via twitter @yarksidegaming
 
